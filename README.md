@@ -1,6 +1,6 @@
 # PANIC_ATTACK_ANALYSIS Using Jupyter Notebook. (Health Domain)
 
-> **Data Objective :** ( Purpose of the Dataset )
+> **Data Objective :** ( Purpose Of The Dataset )
 
 This dataset appears designed to analyze factors that influence panic attacks and potentially predict panic severity or frequency based on physiological, behavioral, and lifestyle attributes.
 
