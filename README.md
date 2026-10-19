@@ -4,7 +4,7 @@
 
 This dataset appears designed to analyze factors that influence panic attacks and potentially predict panic severity or frequency based on physiological, behavioral, and lifestyle attributes.
 
-> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack%20Data.csv"> Click Now </a>
+> **Dataset Used :** <a href="https://github.com/Pavankumar-Bishnu/Python_Project_File/blob/main/Panic%20Attack.csv"> Click Now </a>
 
 > **Project Insights**
 
@@ -19,7 +19,7 @@ This dataset appears designed to analyze factors that influence panic attacks an
 - Anxiety and depression are common underlying conditions.
 - Even with medication or therapy, many still have high panic scores → treatment effectiveness could be explored further.
 - There’s potential to build a predictive model using these features to estimate panic severity panic score.
-  - **CODE (ipynb) FILE :** <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack_(%20ETL%20).ipynb"> Click Now </a>
+  - **CODE (ipynb) FILE :** <a href="https://github.com/Pavankumar-Bishnu/Python_Project_File/blob/main/Panic%20Attack_(%20ETLcode%20).ipynb"> Click Now </a>
 
 ![PPT](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_1/blob/main/PPTF.png)
 
@@ -54,7 +54,7 @@ This dataset appears designed to analyze factors that influence panic attacks an
  - What percentage of non-binary individuals report severe panic attacks compared to male/female groups?
  - Which trigger is most commonly associated with high panic scores?
  - What percentage of cases have PTSD triggers?
-   - Answers Code File : <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/KPI-Question%20Code%20File.ipynb"> Click Now </a>
+   - Answers Code File : <a href="https://github.com/Pavankumar-Bishnu/Python_Project_File/blob/main/KPI-Question%20Code.ipynb"> Click Now </a>
 
 ## **Final Conclusion:**
 - Panic attacks are most prevalent in middle-aged individuals with a strong link to anxiety and PTSD history.
