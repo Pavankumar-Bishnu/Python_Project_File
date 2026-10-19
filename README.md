@@ -21,9 +21,9 @@ This dataset appears designed to analyze factors that influence panic attacks an
 - There’s potential to build a predictive model using these features to estimate panic severity panic score.
   - **CODE (ipynb) FILE :** <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack_(%20ETL%20).ipynb"> Click Now </a>
 
-![PPT](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_1/blob/main/PPT.png)
+![PPT](https://github.com/Pavankumar-Bishnu/Python_IPYNB_Project_1/blob/main/PPTF.png)
 
-**Data Visualization & Presentation File** : <a href="https://github.com/Pavankumar-Bishnu/Python-Project/blob/main/Panic%20Attack%20Analysis%20PPT.pptx"> Click PPT Now </a>
+**Data Visualization & Presentation File** : <a href="https://github.com/Pavankumar-Bishnu/Python_Project_File/blob/main/Panic%20Attack%20Analysis%20PPT.pptx"> Click PPT Now </a>
 
 ## Questions & (KPI Summary Categories) :
 
